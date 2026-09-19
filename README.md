@@ -33,3 +33,9 @@ O projeto permite explorar partidas, equipes e jogadores a partir de eventos reg
 ## Fonte dos dados
 
 Os dados utilizados são provenientes do conjunto de dados abertos disponibilizado pela StatsBomb e acessados através da biblioteca StatsBombPy.
+
+## Aplicação online
+
+A aplicação está disponível no Streamlit Community Cloud:
+
+[Football Analytics Dashboard] https://dr1atfutebol-fncwhfuv4syaamqnj3zysc.streamlit.app
